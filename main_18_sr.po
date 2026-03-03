@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "Опција приказа преко целог екрана за приказ веће шаховске табле"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "са прозором за анализу мотора за кибицирање (верзија 4.2)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Додате функције у Nimzo_3d - верзија 4.2"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "Прозор мотора"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "Опције прозора мотора"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "Боја прозора мотора"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "Боја панела мотора"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "Изаберите боју позадине прозора мотора"
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "Изаберите боју панела прозора мотора"
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "Означите да бисте приказали траку са алаткама прозора мотора"
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "Подесите висину траке са алаткама прозора мотора"
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "Прикажи траку са алаткама прозора мотора - Означите да бисте приказали траку са алаткама"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "на дну прозора мотора."
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "Висина траке са алаткама прозора мотора - Подесите висину траке са алаткама у пикселима."
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "Прикажи алатну траку прозора мотора"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "Висина алатне траке прозора мотора"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "Боја прозора мотора - Кликните на контролу боје да бисте је изабрали"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "боја позадине за прозор анализе мотора."
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "Боја панела мотора - Кликните на контролу боје да бисте је изабрали"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "боја позадине за унутрашњи панел анализе мотора."
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "Сачувај тренутну игру"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "Наведите игре из тренутне датотеке"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "Претражите базу података за тренутну позицију"
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "Мотор игра обе стране"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "Играјте оцењену игру против енџина"
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "Окрени таблу"
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "Поставите позицију на шаховској табли"
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "Подесите сатове за игру"
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "Изаберите почетну књигу и опције"
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "Подесите опште опције за програм"
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "Отворите датотеку помоћи"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "Изађите из програма"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "Изаберите тренутни мотор"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "Отворите дијалошки прозор са опцијама за цео екран"
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "Затвори овај прозор"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "Додај први кибиц ред да би се померио оквир са листом"
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "Додајте све кибиц линије да бисте преместили оквир са листом"
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml (верзија 4.2) вишејезична,"
