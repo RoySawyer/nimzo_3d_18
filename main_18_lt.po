@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "Viso ekrano rodymo parinktis, kad būtų rodoma didesnė šachmatų lenta"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "su kibitzingo variklio analizės langu (4.2 versija)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Į „Nimzo_3d“ – 4.2 versija – pridėtos funkcijos"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "Variklio langas"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "Variklio lango parinktys"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "Variklio lango spalva"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "Variklio skydelio spalva"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "Pasirinkite variklio lango fono spalvą"
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "Pasirinkite variklio lango plokštės spalvą"
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "Pažymėkite, jei norite rodyti variklio lango įrankių juostą"
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "Nustatykite variklio lango įrankių juostos aukštį"
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "Rodyti variklio lango įrankių juostą – pažymėkite, jei norite rodyti įrankių juostą"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "variklio lango apačioje."
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "Variklio lango įrankių juostos aukštis – nustatykite įrankių juostos aukštį pikseliais."
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "Rodyti variklio lango įrankių juostą"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "Variklio lango įrankių juostos aukštis"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "Variklio lango spalva – spustelėkite spalvos valdiklį, kad pasirinktumėte"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "variklio analizės lango fono spalva."
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "Variklio skydelio spalva – spustelėkite spalvos valdiklį, kad pasirinktumėte"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "variklio analizės vidinės panelės fono spalva."
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "Išsaugoti dabartinį žaidimą"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "Išvardinti žaidimus iš dabartinio failo"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "Ieškoti dabartinės padėties duomenų bazėje"
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "Variklis groja iš abiejų pusių"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "Žaiskite įvertintą žaidimą prieš variklį"
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "Apverskite lentą"
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "Nustatykite poziciją šachmatų lentoje"
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "Nustatykite žaidimo laikrodžius"
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "Pasirinkite atidarymo knygą ir parinktis"
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "Nustatykite bendrąsias programos parinktis"
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "Atidaryti pagalbos failą"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "Išeikite iš programos"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "Pasirinkite dabartinį variklį"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "Atidaryti viso ekrano parinkčių dialogo langą"
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "Uždaryti šį langą"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "Pridėti pirmąją kibitz eilutę, kad būtų galima perkelti sąrašo laukelį"
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "Pridėti visas kibitz eilutes, kad būtų galima perkelti sąrašo laukelį"
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "„Nimzo_3d_ml“ (4.2 versija) – daugiakalbis,"
