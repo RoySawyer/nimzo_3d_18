@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "Et alternativ for fullskjermvisning for å vise et større sjakkbrett"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "med et motoranalysevindu for kibitzing (versjon 4.2)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Funksjoner lagt til Nimzo_3d - versjon 4.2"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "Motorvindu"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "Alternativer for motorvindu"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "Farge på motorvinduet"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "Farge på motorpanelet"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "Velg bakgrunnsfargen for motorvinduet"
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "Velg fargen på motorvinduets panel"
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "Kryss av for å vise verktøylinjen i motorvinduet"
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "Angi høyden på verktøylinjen for motorvinduet"
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "Vis verktøylinjen i motorvinduet – Kryss av for å vise en verktøylinje"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "nederst i motorvinduet."
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "Høyde på verktøylinjen i motorvinduet – Angi høyden på verktøylinjen i piksler."
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "Vis verktøylinjen i motorvinduet"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "Høyde på verktøylinjen for motorvinduet"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "Farge på motorvinduet – klikk på fargekontrollen for å velge"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "bakgrunnsfargen for motoranalysevinduet."
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "Farge på motorpanelet – klikk på fargekontrollen for å velge"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "bakgrunnsfargen for det indre panelet for motoranalyse."
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "Lagre gjeldende spill"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "List spill fra gjeldende fil"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "Søk i databasen etter gjeldende stilling"
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "Motoren spiller på begge sider"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "Spill et rangert spill mot en motor"
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "Snu brettet"
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "Sett opp en posisjon på sjakkbrettet"
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "Still inn kampklokkene"
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "Velg åpningsboken og alternativene"
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "Angi de generelle alternativene for programmet"
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "Åpne hjelpefilen"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "Avslutt programmet"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "Velg gjeldende motor"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "Åpne dialogboksen for fullskjermalternativer"
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "Lukk dette vinduet"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "Legg til første kibitz-linje i flyttelisten"
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "Legg til alle kibitz-linjer i flyttlisteboksen"
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml (versjon 4.2) flerspråklig,"
