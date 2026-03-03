@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "全屏显示选项，可显示更大的棋盘"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "带有用于旁观的引擎分析窗口（版本 4.2）"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Nimzo_3d 4.2 版本新增功能"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "发动机舱窗口"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "引擎窗口选项"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "发动机舱窗颜色"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "发动机面板颜色"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "选择引擎窗口背景颜色"
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "选择发动机舱窗面板颜色"
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "选中以显示引擎窗口工具栏"
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "设置引擎窗口工具栏高度"
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "显示引擎窗口工具栏 - 选中此项可显示工具栏"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "在发动机舱窗口底部。"
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "引擎窗口工具栏高度 - 设置工具栏高度（以像素为单位）。"
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "显示引擎窗口工具栏"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "引擎窗口工具栏高度"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "引擎窗口颜色 - 点击颜色控件进行选择"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "引擎分析窗口的背景颜色。"
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "发动机面板颜色 - 单击颜色控件进行选择"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "发动机分析内面板的背景颜色。"
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "保存当前游戏"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "列出当前文件中的游戏"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "搜索数据库中的当前职位"
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "引擎在双方都发挥作用"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "与引擎进行一场等级分对局。"
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "翻转棋盘"
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "在棋盘上摆好阵型"
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "设置比赛计时器"
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "选择开局簿和选项"
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "设置程序的常规选项"
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "打开帮助文件"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "退出程序"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "选择当前引擎"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "打开全屏选项对话框"
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "关闭此窗口"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "将第一行“闲聊”添加到移动列表框"
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "将所有旁观者行添加到移动列表框"
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml（版本 4.2）多语言版"
