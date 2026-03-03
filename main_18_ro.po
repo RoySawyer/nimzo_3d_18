@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "O opțiune de afișare pe tot ecranul pentru a afișa o tablă de șah mai mare"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "cu o fereastră de analiză a motorului pentru kibitzing (versiunea 4.2)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Funcții adăugate la Nimzo_3d - versiunea 4.2"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "Fereastra motorului"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "Opțiuni pentru geamurile motorului"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "Culoarea geamului motorului"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "Culoarea panoului motorului"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "Selectați culoarea de fundal a ferestrei motorului"
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "Selectați culoarea panoului geamului motorului"
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "Bifați pentru a afișa bara de instrumente a ferestrei motorului"
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "Setează înălțimea barei de instrumente a ferestrei motorului"
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "Afișează bara de instrumente a ferestrei motorului - Bifează pentru a afișa o bară de instrumente"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "în partea de jos a geamului motorului."
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "Înălțimea barei de instrumente a ferestrei Engine - Setează înălțimea barei de instrumente în pixeli."
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "Afișează bara de instrumente a ferestrei motorului"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "Înălțimea barei de instrumente a ferestrei motorului"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "Culoarea ferestrei motorului - Faceți clic pe controlul culorii pentru a selecta"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "culoarea de fundal pentru fereastra de analiză a motorului."
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "Culoarea panoului motorului - Faceți clic pe controlul culorii pentru a selecta"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "culoarea de fundal pentru panoul interior de analiză a motorului."
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "Salvați jocul curent"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "Listează jocurile din fișierul curent"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "Căutați în baza de date poziția curentă"
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "Motorul funcționează pe ambele părți"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "Joacă un joc cotat împotriva unui motor"
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "Întoarce tabla"
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "Stabilește o poziție pe tabla de șah"
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "Setați ceasurile de joc"
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "Selectați cartea de deschidere și opțiunile"
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "Setați opțiunile generale pentru program"
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "Deschideți fișierul de ajutor"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "Ieșiți din program"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "Selectați motorul curent"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "Deschideți caseta de dialog cu opțiuni de ecran complet"
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "Închideți această fereastră"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "Adăugați prima linie kibitz în caseta de listă de mutare"
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "Adăugați toate liniile kibitz în caseta listă de mutare"
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml (versiunea 4.2) multilingv,"
