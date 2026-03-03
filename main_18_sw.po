@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "Chaguo la kuonyesha skrini nzima ili kuonyesha ubao mkubwa wa chesi"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "na dirisha la uchambuzi wa injini kwa ajili ya kibitzing (toleo la 4.2)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Vipengele vimeongezwa kwenye Nimzo_3d - toleo la 4.2"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "Dirisha la injini"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "Chaguzi za dirisha la injini"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "Rangi ya dirisha la injini"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "Rangi ya paneli ya injini"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "Chagua rangi ya mandharinyuma ya dirisha la injini"
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "Chagua rangi ya paneli ya dirisha la injini"
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "Angalia ili kuonyesha upau wa vidhibiti vya dirisha la injini"
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "Weka urefu wa upau wa vidhibiti vya dirisha la injini"
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "Onyesha upau wa vidhibiti wa dirisha la injini - Angalia ili kuonyesha upau wa vidhibiti"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "chini ya dirisha la injini."
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "Urefu wa upau wa vidhibiti wa dirisha la injini - Weka urefu wa upau wa vidhibiti katika pikseli."
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "Onyesha upau wa vidhibiti vya dirisha la injini"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "Urefu wa upau wa vidhibiti wa dirisha la injini"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "Rangi ya dirisha la injini - Bonyeza kidhibiti cha rangi ili kuchagua"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "rangi ya usuli kwa dirisha la uchambuzi wa injini."
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "Rangi ya paneli ya injini - Bonyeza kidhibiti cha rangi ili kuchagua"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "rangi ya usuli kwa paneli ya ndani ya uchambuzi wa injini."
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "Hifadhi mchezo wa sasa"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "Orodhesha michezo kutoka kwa faili ya sasa"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "Tafuta hifadhidata kwa nafasi ya sasa"
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "Injini inacheza pande zote mbili"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "Cheza mchezo uliokadiriwa dhidi ya injini"
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "Geuza ubao"
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "Weka nafasi kwenye ubao wa chesi"
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "Weka saa za mchezo"
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "Chagua kitabu cha ufunguzi na chaguo"
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "Weka chaguo za jumla za programu"
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "Fungua faili ya usaidizi"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "Toka kwenye programu"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "Chagua injini ya sasa"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "Fungua kisanduku cha mazungumzo cha chaguo za skrini nzima"
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "Funga dirisha hili"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "Ongeza mstari wa kwanza wa kibitz kwenye kisanduku cha orodha ya kusogeza"
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "Ongeza mistari yote ya kibitz ili kusogeza kisanduku cha orodha"
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml (toleo la 4.2) la lugha nyingi,"
