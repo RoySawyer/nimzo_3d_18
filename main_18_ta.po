@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "ஒரு பெரிய சதுரங்கப் பலகையைக் காட்ட முழுத்திரை காட்சி விருப்பம்"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "கிபிட்சிங்கிற்கான இயந்திர பகுப்பாய்வு சாளரத்துடன் (பதிப்பு 4.2)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Nimzo_3d - பதிப்பு 4.2 இல் அம்சங்கள் சேர்க்கப்பட்டுள்ளன."
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "எஞ்சின் ஜன்னல்"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "எஞ்சின் சாளர விருப்பங்கள்"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "எஞ்சின் ஜன்னல் நிறம்"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "எஞ்சின் பேனல் நிறம்"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "இயந்திர சாளர பின்னணி நிறத்தைத் தேர்ந்தெடுக்கவும்."
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "என்ஜின் சாளர பலகத்தின் நிறத்தைத் தேர்ந்தெடுக்கவும்."
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "என்ஜின் சாளர கருவிப்பட்டியைக் காட்ட சரிபார்க்கவும்."
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "என்ஜின் சாளர கருவிப்பட்டியின் உயரத்தை அமைக்கவும்."
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "என்ஜின் சாளர கருவிப்பட்டியைக் காட்டு - கருவிப்பட்டியைக் காட்ட சரிபார்க்கவும்."
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "இயந்திர சாளரத்தின் அடிப்பகுதியில்."
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "எஞ்சின் சாளர கருவிப்பட்டி உயரம் - கருவிப்பட்டியின் உயரத்தை பிக்சல்களில் அமைக்கவும்."
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "எஞ்சின் சாளர கருவிப்பட்டியைக் காட்டு"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "எஞ்சின் சாளர கருவிப்பட்டியின் உயரம்"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "எஞ்சின் சாளர நிறம் - தேர்ந்தெடுக்க வண்ணக் கட்டுப்பாட்டைக் கிளிக் செய்யவும்"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "இயந்திர பகுப்பாய்வு சாளரத்திற்கான பின்னணி நிறம்."
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "எஞ்சின் பேனல் நிறம் - தேர்ந்தெடுக்க வண்ணக் கட்டுப்பாட்டைக் கிளிக் செய்யவும்."
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "இயந்திர பகுப்பாய்வு உள் பலகத்திற்கான பின்னணி நிறம்."
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "தற்போதைய விளையாட்டைச் சேமிக்கவும்"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "தற்போதைய கோப்பிலிருந்து விளையாட்டுகளைப் பட்டியலிடுங்கள்"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "தற்போதைய நிலைக்கு தரவுத்தளத்தில் தேடுங்கள்."
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "எஞ்சின் இருபுறமும் விளையாடுகிறது"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "ஒரு இயந்திரத்திற்கு எதிராக மதிப்பிடப்பட்ட விளையாட்டை விளையாடுங்கள்."
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "பலகையைத் திருப்புங்கள்."
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "சதுரங்கப் பலகையில் ஒரு நிலையை அமைக்கவும்."
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "விளையாட்டு கடிகாரங்களை அமைக்கவும்."
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "தொடக்கப் புத்தகம் மற்றும் விருப்பங்களைத் தேர்ந்தெடுக்கவும்."
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "நிரலுக்கான பொதுவான விருப்பங்களை அமைக்கவும்."
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "உதவி கோப்பைத் திறக்கவும்."
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "நிரலிலிருந்து வெளியேறு"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "தற்போதைய இயந்திரத்தைத் தேர்ந்தெடுக்கவும்"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "முழுத்திரை விருப்பங்கள் உரையாடல் பெட்டியைத் திறக்கவும்."
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "இந்த சாளரத்தை மூடு"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "பட்டியல் பெட்டியை நகர்த்த முதல் கிபிட்ஸ் வரியைச் சேர்க்கவும்."
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "பட்டியல் பெட்டியை நகர்த்த அனைத்து கிபிட்ஸ் வரிகளையும் சேர்க்கவும்."
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml (பதிப்பு 4.2) பன்மொழி,"
