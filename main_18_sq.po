@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "Një opsion shfaqjeje në ekran të plotë për të shfaqur një tabelë shahu më të madhe"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "me një dritare analize motori për kibitzing (versioni 4.2)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Karakteristika të shtuara në Nimzo_3d - versioni 4.2"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "Dritarja e motorrit"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "Opsionet e dritares së motorit"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "Ngjyra e dritares së motorit"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "Ngjyra e panelit të motorrit"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "Zgjidhni ngjyrën e sfondit të dritares së motorit"
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "Zgjidhni ngjyrën e panelit të dritares së motorit"
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "Kontrolloni për të shfaqur shiritin e veglave të dritares së motorit"
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "Cakto lartësinë e shiritit të veglave të dritares së motorit"
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "Shfaq shiritin e veglave të dritares së motorit - Zgjidh për të shfaqur një shirit veglash"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "në fund të dritares së motorit."
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "Lartësia e shiritit të veglave të dritares së motorit - Vendos lartësinë e shiritit të veglave në piksel."
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "Shfaq shiritin e veglave të dritares së motorit"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "Lartësia e veglave të dritares së motorit"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "Ngjyra e dritares së motorrit - Klikoni kontrollin e ngjyrës për të zgjedhur"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "ngjyra e sfondit për dritaren e analizës së motorit."
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "Ngjyra e panelit të motorrit - Klikoni kontrollin e ngjyrës për të zgjedhur"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "ngjyra e sfondit për panelin e brendshëm të analizës së motorit."
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "Ruaj lojën aktuale"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "Rendit lojërat nga skedari aktual"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "Kërko në bazën e të dhënave për pozicionin aktual"
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "Motori luan në të dyja anët"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "Luaj një lojë të vlerësuar kundër një motori"
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "Kthejeni tabelën"
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "Vendosni një pozicion në tabelën e shahut"
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "Vendos orët e lojës"
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "Zgjidhni librin hapës dhe opsionet"
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "Vendosni opsionet e përgjithshme për programin"
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "Hap skedarin e ndihmës"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "Dil nga programi"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "Zgjidhni motorin aktual"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "Hap kutinë e dialogut të opsioneve të ekranit të plotë"
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "Mbyll këtë dritare"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "Shto rreshtin e parë kibitz për të zhvendosur kutinë e listës"
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "Shto të gjitha rreshtat kibitz në kutinë e listës së zhvendosur"
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml (versioni 4.2) shumëgjuhësh,"
