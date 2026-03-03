@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "एक बड़ा शतरंज बोर्ड दिखाने के लिए फुल स्क्रीन डिस्प्ले का विकल्प।"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "चर्चा करने के लिए इंजन विश्लेषण विंडो के साथ (संस्करण 4.2)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Nimzo_3d के संस्करण 4.2 में नई सुविधाएँ जोड़ी गईं"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "इंजन विंडो"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "इंजन विंडो विकल्प"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "इंजन विंडो का रंग"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "इंजन पैनल का रंग"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "इंजन विंडो के बैकग्राउंड का रंग चुनें"
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "इंजन विंडो पैनल का रंग चुनें"
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "इंजन विंडो टूलबार दिखाने के लिए चेक करें"
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "इंजन विंडो टूलबार की ऊंचाई सेट करें"
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "इंजन विंडो टूलबार दिखाएँ - टूलबार दिखाने के लिए चेक करें"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "इंजन की खिड़की के निचले हिस्से में।"
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "इंजन विंडो टूलबार की ऊंचाई - टूलबार की ऊंचाई पिक्सल में सेट करें।"
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "इंजन विंडो टूलबार दिखाएँ"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "इंजन विंडो टूलबार की ऊंचाई"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "इंजन विंडो का रंग - रंग चुनने के लिए कलर कंट्रोल पर क्लिक करें"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "इंजन विश्लेषण विंडो के लिए पृष्ठभूमि रंग।"
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "इंजन पैनल का रंग - रंग चुनने के लिए रंग नियंत्रण पर क्लिक करें"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "इंजन विश्लेषण आंतरिक पैनल के लिए पृष्ठभूमि रंग।"
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "वर्तमान गेम सहेजें"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "वर्तमान फ़ाइल से गेमों की सूची बनाएं"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "डेटाबेस में वर्तमान पद की खोज करें"
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "इंजन दोनों पक्षों की भूमिका निभाता है"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "इंजन के खिलाफ रेटिंग वाला गेम खेलें"
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "बोर्ड को पलट दें"
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "शतरंज के बोर्ड पर एक स्थिति निर्धारित करें"
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "गेम की घड़ियाँ सेट करें"
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "शुरुआती किताब और विकल्प चुनें"
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "प्रोग्राम के लिए सामान्य विकल्प सेट करें"
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "सहायता फ़ाइल खोलें"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "प्रोग्राम से बाहर निकलें"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "वर्तमान इंजन का चयन करें"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "पूर्ण स्क्रीन विकल्प संवाद बॉक्स खोलें"
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "इस विंडो को बंद करें"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "मूव लिस्ट बॉक्स में पहली किबिट्ज़ लाइन जोड़ें"
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "सभी किबिट्ज़ लाइनों को मूव लिस्ट बॉक्स में जोड़ें"
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml (संस्करण 4.2) बहुभाषी,"
