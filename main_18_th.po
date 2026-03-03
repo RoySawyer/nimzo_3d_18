@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "ตัวเลือกการแสดงผลแบบเต็มหน้าจอเพื่อแสดงกระดานหมากรุกขนาดใหญ่ขึ้น"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "พร้อมหน้าต่างวิเคราะห์เครื่องยนต์สำหรับแสดงความคิดเห็น (เวอร์ชัน 4.2)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "คุณสมบัติที่เพิ่มเข้ามาใน Nimzo_3d - เวอร์ชัน 4.2"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "หน้าต่างเครื่องยนต์"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "ตัวเลือกหน้าต่างเครื่องยนต์"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "สีหน้าต่างเครื่องยนต์"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "สีแผงเครื่องยนต์"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "เลือกสีพื้นหลังของหน้าต่างเครื่องยนต์"
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "เลือกสีแผงหน้าต่างเครื่องยนต์"
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "เลือกเพื่อแสดงแถบเครื่องมือหน้าต่างเครื่องยนต์"
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "ตั้งค่าความสูงของแถบเครื่องมือหน้าต่างเครื่องยนต์"
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "แสดงแถบเครื่องมือหน้าต่างเครื่องยนต์ - เลือกเพื่อแสดงแถบเครื่องมือ"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "ที่ด้านล่างของหน้าต่างเครื่องยนต์"
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "ความสูงของแถบเครื่องมือในหน้าต่างเครื่องยนต์ - ตั้งค่าความสูงของแถบเครื่องมือเป็นพิกเซล"
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "แสดงแถบเครื่องมือหน้าต่างเครื่องยนต์"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "ความสูงของแถบเครื่องมือหน้าต่างเครื่องยนต์"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "สีหน้าต่างเครื่องยนต์ - คลิกที่ตัวควบคุมสีเพื่อเลือก"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "สีพื้นหลังสำหรับหน้าต่างวิเคราะห์เครื่องยนต์"
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "สีแผงควบคุมเครื่องยนต์ - คลิกที่ปุ่มควบคุมสีเพื่อเลือก"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "สีพื้นหลังสำหรับแผงวิเคราะห์เครื่องยนต์ภายใน"
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "บันทึกเกมปัจจุบัน"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "แสดงรายการเกมจากไฟล์ปัจจุบัน"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "ค้นหาตำแหน่งงานปัจจุบันในฐานข้อมูล"
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "กลไกการเล่นทั้งสองฝ่าย"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "เล่นเกมจัดอันดับกับโปรแกรมคอมพิวเตอร์"
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "พลิกกระดาน"
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "จัดวางตำแหน่งบนกระดานหมากรุก"
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "ตั้งเวลาการแข่งขัน"
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "เลือกหนังสือเปิดเรื่องและตัวเลือกต่างๆ"
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "ตั้งค่าตัวเลือกทั่วไปสำหรับโปรแกรม"
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "เปิดไฟล์ช่วยเหลือ"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "ออกจากโปรแกรม"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "เลือกเครื่องยนต์ปัจจุบัน"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "เปิดกล่องโต้ตอบตัวเลือกแบบเต็มหน้าจอ"
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "ปิดหน้าต่างนี้"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "เพิ่มบรรทัดความคิดเห็นแรกเพื่อย้ายกล่องรายการ"
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "เพิ่มบรรทัด kibitz ทั้งหมดลงในกล่องรายการที่ย้ายได้"
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml (เวอร์ชัน 4.2) รองรับหลายภาษา"
