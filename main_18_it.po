@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "Un'opzione di visualizzazione a schermo intero per mostrare una scacchiera più grande"
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "con una finestra di analisi del motore per il kibitzing (versione 4.2)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Funzionalità aggiunte a Nimzo_3d - versione 4.2"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "finestrino del motore"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "Opzioni del finestrino del motore"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "Colore del finestrino del motore"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "Colore del pannello motore"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "Seleziona il colore di sfondo della finestra del motore"
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "Seleziona il colore del pannello del finestrino del motore"
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "Seleziona per mostrare la barra degli strumenti della finestra del motore"
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "Imposta l'altezza della barra degli strumenti della finestra del motore"
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "Mostra barra degli strumenti della finestra del motore: seleziona per mostrare una barra degli strumenti"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "nella parte inferiore del finestrino del motore."
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "Altezza della barra degli strumenti della finestra del motore: imposta l'altezza della barra degli strumenti in pixel."
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "Mostra la barra degli strumenti della finestra del motore"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "Altezza della barra degli strumenti della finestra del motore"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "Colore della finestra del motore: fare clic sul controllo del colore per selezionare"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "il colore di sfondo per la finestra di analisi del motore."
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "Colore del pannello motore: fare clic sul controllo del colore per selezionare"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "il colore di sfondo per il pannello interno di analisi del motore."
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "Salva la partita corrente"
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "Elenca i giochi dal file corrente"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "Cerca nel database la posizione attuale"
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "Il motore gioca su entrambi i fronti"
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "Gioca una partita classificata contro un motore"
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "Gira la tavola"
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "Stabilisci una posizione sulla scacchiera"
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "Imposta gli orologi di gioco"
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "Seleziona il libro di apertura e le opzioni"
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "Imposta le opzioni generali per il programma"
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "Apri il file di aiuto"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "Esci dal programma"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "Seleziona il motore corrente"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "Apri la finestra di dialogo delle opzioni a schermo intero"
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "Chiudi questa finestra"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "Aggiungi la prima riga kibitz per spostare la casella di riepilogo"
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "Aggiungi tutte le linee kibitz alla casella di elenco degli spostamenti"
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml (versione 4.2) multilingue,"
