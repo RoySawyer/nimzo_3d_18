@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-03 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_18.cpp:2
+msgid "A full screen display option to show a larger chess board"
+msgstr "Een optie voor weergave op volledig scherm om een ​​groter schaakbord te tonen."
+
+#: main_18.cpp:4
+msgid "with a engine analysis window for kibitzing (version 4.2)"
+msgstr "met een venster voor motoranalyse om commentaar te geven (versie 4.2)"
+
+#: main_18.cpp:6
+msgid "Features added to Nimzo_3d - version 4.2"
+msgstr "Nieuwe functies toegevoegd aan Nimzo_3d - versie 4.2"
+
+#: main_18.cpp:8
+msgid "Engine window"
+msgstr "Motorvenster"
+
+#: main_18.cpp:10
+msgid "Engine window options"
+msgstr "Opties voor het motorvenster"
+
+#: main_18.cpp:12
+msgid "Engine window colour"
+msgstr "Kleur van het motorvenster"
+
+#: main_18.cpp:14
+msgid "Engine panel colour"
+msgstr "Kleur van het motorpaneel"
+
+#: main_18.cpp:16
+msgid "Select the engine window background colour"
+msgstr "Selecteer de achtergrondkleur van het motorvenster."
+
+#: main_18.cpp:17
+msgid "Select the engine window panel colour"
+msgstr "Selecteer de kleur van het paneel van het motorvenster."
+
+#: main_18.cpp:19
+msgid "Check to show the engine window toolbar"
+msgstr "Schakel dit vakje in om de werkbalk van het motorvenster weer te geven."
+
+#: main_18.cpp:20
+msgid "Set the engine window toolbar height"
+msgstr "Stel de hoogte van de werkbalk in het motorvenster in."
+
+#: main_18.cpp:22
+msgid "Show engine window toolbar  -  Check to show a toolbar"
+msgstr "Toon de werkbalk van het enginevenster - Vink dit aan om een ​​werkbalk weer te geven"
+
+#: main_18.cpp:23
+msgid "at the bottom of the engine window."
+msgstr "onderaan het motorvenster."
+
+#: main_18.cpp:24
+msgid "Engine window toolbar height  -  Set the toolbar height in pixels."
+msgstr "Hoogte van de werkbalk in het enginevenster - Stel de hoogte van de werkbalk in pixels in."
+
+#: main_18.cpp:27
+msgid "Show engine window toolbar"
+msgstr "Toon de werkbalk van het engine-venster"
+
+#: main_18.cpp:29
+msgid "Engine window toolbar height"
+msgstr "Hoogte van de werkbalk in het motorvenster"
+
+#: main_18.cpp:31
+msgid "Engine window colour  -  Click the colour control to select"
+msgstr "Kleur van het motorvenster - Klik op de kleurregelaar om te selecteren"
+
+#: main_18.cpp:33
+msgid "the background colour for the engine analysis window."
+msgstr "De achtergrondkleur voor het venster voor de motoranalyse."
+
+#: main_18.cpp:35
+msgid "Engine panel colour  -  Click the colour control to select"
+msgstr "Kleur van het motorpaneel - Klik op de kleurregelaar om te selecteren"
+
+#: main_18.cpp:36
+msgid "the background colour for the engine analysis inner panel."
+msgstr "De achtergrondkleur voor het binnenpaneel van de motoranalyse."
+
+#: main_18.cpp:38
+msgid "Save current game"
+msgstr "Sla het huidige spel op."
+
+#: main_18.cpp:39
+msgid "List games from current file"
+msgstr "Lijst met spellen uit het huidige bestand"
+
+#: main_18.cpp:40
+msgid "Search database for the current position"
+msgstr "Zoek in de database naar de huidige functie."
+
+#: main_18.cpp:41
+msgid "Engine plays both sides"
+msgstr "De engine speelt aan beide kanten."
+
+#: main_18.cpp:42
+msgid "Play a rated game against an engine"
+msgstr "Speel een partij met rating tegen een computer."
+
+#: main_18.cpp:43
+msgid "Flip the board"
+msgstr "Draai het bord om."
+
+#: main_18.cpp:44
+msgid "Setup a position on the chess board"
+msgstr "Neem een ​​positie in op het schaakbord."
+
+#: main_18.cpp:45
+msgid "Set the game clocks"
+msgstr "Stel de spelklokken in."
+
+#: main_18.cpp:46
+msgid "Select the opening book and options"
+msgstr "Selecteer het openingsboek en de opties."
+
+#: main_18.cpp:47
+msgid "Set the general options for the program"
+msgstr "Stel de algemene opties voor het programma in."
+
+#: main_18.cpp:48
+msgid "Open the help file"
+msgstr "Open het helpbestand"
+
+#: main_18.cpp:49
+msgid "Exit the program"
+msgstr "Het programma verlaten"
+
+#: main_18.cpp:51
+msgid "Select the current engine"
+msgstr "Selecteer de huidige engine"
+
+#: main_18.cpp:52
+msgid "Open the full screen options dialog box"
+msgstr "Open het dialoogvenster met de opties voor volledig scherm."
+
+#: main_18.cpp:53
+msgid "Close this window"
+msgstr "Sluit dit venster"
+
+#: main_18.cpp:54
+msgid "Add first kibitz line to move list box"
+msgstr "Voeg de eerste kibitz-regel toe aan het verplaatsbare lijstvak."
+
+#: main_18.cpp:55
+msgid "Add all kibitz lines to move list box"
+msgstr "Voeg alle kibitz-regels toe aan het verplaatsbare lijstvak."
+
+#: main_18.cpp:57
+msgid "Nimzo_3d_ml (version 4.2) multi-lingual,"
+msgstr "Nimzo_3d_ml (versie 4.2) meertalig,"
